@@ -1,0 +1,1 @@
+echo "Vansh Kumar\n101402651\nGit repository created from Azure VM" 
